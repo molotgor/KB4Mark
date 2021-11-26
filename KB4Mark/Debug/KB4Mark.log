@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\molotgor\source\repos\KB4Mark\KB4Mark\Source.cpp(55,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\molotgor\source\repos\KB4Mark\KB4Mark\Source.cpp(72,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\molotgor\source\repos\KB4Mark\KB4Mark\Source.cpp(86,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\molotgor\source\repos\KB4Mark\KB4Mark\Source.cpp(124,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\molotgor\source\repos\KB4Mark\KB4Mark\Source.cpp(133,20): warning C4018: <: несоответствие типов со знаком и без знака
+  KB4Mark.vcxproj -> C:\Users\molotgor\source\repos\KB4Mark\Debug\KB4Mark.exe
